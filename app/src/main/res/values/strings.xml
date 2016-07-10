@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Neengalum Vellalam Oru Kodi</string>
     <string name="q1">Before Mt.Everest was discovered, what was the highest mountain in the world?</string>
-    <string name="ques_one">Before Mt.Everest was discovered, what was the highest mountain in the world?</string>
+    <string name="ques_one">Before Mt.Everest was discovered, what was the highest mountain in the world ?</string>
     <string name="mt_kilimanjaro">Mt.Kilimanjaro</string>
     <string name="next">Next</string>
     <string name="no_mountain">No Mountain</string>
